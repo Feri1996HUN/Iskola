@@ -1,0 +1,13 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\bin\Debug\netcoreapp3.1\Teszt1.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\bin\Debug\netcoreapp3.1\Teszt1.deps.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\bin\Debug\netcoreapp3.1\Teszt1.runtimeconfig.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\bin\Debug\netcoreapp3.1\Teszt1.runtimeconfig.dev.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\bin\Debug\netcoreapp3.1\Teszt1.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\bin\Debug\netcoreapp3.1\Teszt1.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\obj\Debug\netcoreapp3.1\Teszt1.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\obj\Debug\netcoreapp3.1\Teszt1.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\obj\Debug\netcoreapp3.1\Teszt1.AssemblyInfoInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\obj\Debug\netcoreapp3.1\Teszt1.AssemblyInfo.cs
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\obj\Debug\netcoreapp3.1\Teszt1.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\obj\Debug\netcoreapp3.1\Teszt1.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Teszt1\obj\Debug\netcoreapp3.1\Teszt1.genruntimeconfig.cache

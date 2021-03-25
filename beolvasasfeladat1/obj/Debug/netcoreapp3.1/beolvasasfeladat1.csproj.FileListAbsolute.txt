@@ -1,0 +1,13 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\bin\Debug\netcoreapp3.1\beolvasasfeladat1.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\bin\Debug\netcoreapp3.1\beolvasasfeladat1.deps.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\bin\Debug\netcoreapp3.1\beolvasasfeladat1.runtimeconfig.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\bin\Debug\netcoreapp3.1\beolvasasfeladat1.runtimeconfig.dev.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\bin\Debug\netcoreapp3.1\beolvasasfeladat1.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\bin\Debug\netcoreapp3.1\beolvasasfeladat1.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\obj\Debug\netcoreapp3.1\beolvasasfeladat1.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\obj\Debug\netcoreapp3.1\beolvasasfeladat1.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\obj\Debug\netcoreapp3.1\beolvasasfeladat1.AssemblyInfoInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\obj\Debug\netcoreapp3.1\beolvasasfeladat1.AssemblyInfo.cs
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\obj\Debug\netcoreapp3.1\beolvasasfeladat1.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\obj\Debug\netcoreapp3.1\beolvasasfeladat1.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\beolvasasfeladat1\obj\Debug\netcoreapp3.1\beolvasasfeladat1.genruntimeconfig.cache
