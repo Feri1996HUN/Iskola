@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\bin\Debug\matrix.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\bin\Debug\matrix.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\bin\Debug\matrix.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\obj\Debug\matrix.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\obj\Debug\matrix.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\obj\Debug\matrix.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\obj\Debug\matrix.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\obj\Debug\matrix.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrix\obj\Debug\matrix.pdb

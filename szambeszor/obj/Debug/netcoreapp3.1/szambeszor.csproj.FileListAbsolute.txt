@@ -1,0 +1,12 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\bin\Debug\netcoreapp3.1\szambeszor.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\bin\Debug\netcoreapp3.1\szambeszor.deps.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\bin\Debug\netcoreapp3.1\szambeszor.runtimeconfig.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\bin\Debug\netcoreapp3.1\szambeszor.runtimeconfig.dev.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\bin\Debug\netcoreapp3.1\szambeszor.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\bin\Debug\netcoreapp3.1\szambeszor.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\obj\Debug\netcoreapp3.1\szambeszor.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\obj\Debug\netcoreapp3.1\szambeszor.AssemblyInfoInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\obj\Debug\netcoreapp3.1\szambeszor.AssemblyInfo.cs
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\obj\Debug\netcoreapp3.1\szambeszor.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\obj\Debug\netcoreapp3.1\szambeszor.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szambeszor\obj\Debug\netcoreapp3.1\szambeszor.genruntimeconfig.cache

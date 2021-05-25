@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\bin\Debug\Szures.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\bin\Debug\Szures.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\bin\Debug\Szures.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\obj\Debug\Szures.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\obj\Debug\Szures.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\obj\Debug\Szures.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\obj\Debug\Szures.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\obj\Debug\Szures.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\obj\Debug\Szures.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szures\obj\Debug\Szures.pdb

@@ -1,0 +1,13 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\bin\Debug\netcoreapp3.1\OOPpoliform.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\bin\Debug\netcoreapp3.1\OOPpoliform.deps.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\bin\Debug\netcoreapp3.1\OOPpoliform.runtimeconfig.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\bin\Debug\netcoreapp3.1\OOPpoliform.runtimeconfig.dev.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\bin\Debug\netcoreapp3.1\OOPpoliform.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\bin\Debug\netcoreapp3.1\OOPpoliform.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\obj\Debug\netcoreapp3.1\OOPpoliform.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\obj\Debug\netcoreapp3.1\OOPpoliform.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\obj\Debug\netcoreapp3.1\OOPpoliform.AssemblyInfoInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\obj\Debug\netcoreapp3.1\OOPpoliform.AssemblyInfo.cs
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\obj\Debug\netcoreapp3.1\OOPpoliform.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\obj\Debug\netcoreapp3.1\OOPpoliform.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPpoliform\obj\Debug\netcoreapp3.1\OOPpoliform.genruntimeconfig.cache

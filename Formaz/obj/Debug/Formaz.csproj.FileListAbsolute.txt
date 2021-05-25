@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\bin\Debug\Formaz.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\bin\Debug\Formaz.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\bin\Debug\Formaz.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\obj\Debug\Formaz.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\obj\Debug\Formaz.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\obj\Debug\Formaz.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\obj\Debug\Formaz.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\obj\Debug\Formaz.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\obj\Debug\Formaz.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Formaz\obj\Debug\Formaz.pdb

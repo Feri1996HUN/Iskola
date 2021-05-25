@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\bin\Debug\dinamikus.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\bin\Debug\dinamikus.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\bin\Debug\dinamikus.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\obj\Debug\dinamikus.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\obj\Debug\dinamikus.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\obj\Debug\dinamikus.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\obj\Debug\dinamikus.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\obj\Debug\dinamikus.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\obj\Debug\dinamikus.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\dinamikus\obj\Debug\dinamikus.pdb

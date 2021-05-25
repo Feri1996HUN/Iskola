@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\bin\Debug\Szoveg.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\bin\Debug\Szoveg.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\bin\Debug\Szoveg.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\obj\Debug\Szoveg.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\obj\Debug\Szoveg.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\obj\Debug\Szoveg.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\obj\Debug\Szoveg.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\obj\Debug\Szoveg.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\obj\Debug\Szoveg.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szoveg\obj\Debug\Szoveg.pdb

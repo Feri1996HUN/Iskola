@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\bin\Debug\SarokMukodik.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\bin\Debug\SarokMukodik.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\bin\Debug\SarokMukodik.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\obj\Debug\SarokMukodik.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\obj\Debug\SarokMukodik.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\obj\Debug\SarokMukodik.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\obj\Debug\SarokMukodik.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\obj\Debug\SarokMukodik.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\obj\Debug\SarokMukodik.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\SarokMukodik\obj\Debug\SarokMukodik.pdb

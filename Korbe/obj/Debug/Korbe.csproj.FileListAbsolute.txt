@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\bin\Debug\Korbe.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\bin\Debug\Korbe.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\bin\Debug\Korbe.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\obj\Debug\Korbe.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\obj\Debug\Korbe.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\obj\Debug\Korbe.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\obj\Debug\Korbe.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\obj\Debug\Korbe.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\obj\Debug\Korbe.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Korbe\obj\Debug\Korbe.pdb

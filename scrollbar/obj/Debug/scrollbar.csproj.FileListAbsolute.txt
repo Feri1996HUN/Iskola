@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\bin\Debug\scrollbar.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\bin\Debug\scrollbar.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\bin\Debug\scrollbar.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\obj\Debug\scrollbar.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\obj\Debug\scrollbar.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\obj\Debug\scrollbar.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\obj\Debug\scrollbar.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\obj\Debug\scrollbar.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\obj\Debug\scrollbar.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\scrollbar\obj\Debug\scrollbar.pdb

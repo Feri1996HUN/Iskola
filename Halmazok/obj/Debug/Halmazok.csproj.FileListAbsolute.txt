@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\bin\Debug\Halmazok.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\bin\Debug\Halmazok.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\bin\Debug\Halmazok.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\obj\Debug\Halmazok.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\obj\Debug\Halmazok.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\obj\Debug\Halmazok.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\obj\Debug\Halmazok.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\obj\Debug\Halmazok.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\obj\Debug\Halmazok.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Halmazok\obj\Debug\Halmazok.pdb

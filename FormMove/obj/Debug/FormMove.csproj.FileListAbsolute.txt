@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\bin\Debug\FormMove.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\bin\Debug\FormMove.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\bin\Debug\FormMove.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\obj\Debug\FormMove.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\obj\Debug\FormMove.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\obj\Debug\FormMove.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\obj\Debug\FormMove.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\obj\Debug\FormMove.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\obj\Debug\FormMove.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\FormMove\obj\Debug\FormMove.pdb

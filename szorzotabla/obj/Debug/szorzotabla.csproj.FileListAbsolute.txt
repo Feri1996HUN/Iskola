@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\bin\Debug\szorzotabla.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\bin\Debug\szorzotabla.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\bin\Debug\szorzotabla.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\obj\Debug\szorzotabla.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\obj\Debug\szorzotabla.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\obj\Debug\szorzotabla.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\obj\Debug\szorzotabla.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\obj\Debug\szorzotabla.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\obj\Debug\szorzotabla.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\szorzotabla\obj\Debug\szorzotabla.pdb

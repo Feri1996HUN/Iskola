@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\bin\Debug\lnkoeslkkt.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\bin\Debug\lnkoeslkkt.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\bin\Debug\lnkoeslkkt.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\obj\Debug\lnkoeslkkt.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\obj\Debug\lnkoeslkkt.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\obj\Debug\lnkoeslkkt.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\obj\Debug\lnkoeslkkt.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\obj\Debug\lnkoeslkkt.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\obj\Debug\lnkoeslkkt.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\lnkoeslkkt\obj\Debug\lnkoeslkkt.pdb

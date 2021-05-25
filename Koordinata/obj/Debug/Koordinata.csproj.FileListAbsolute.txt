@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\bin\Debug\Koordinata.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\bin\Debug\Koordinata.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\bin\Debug\Koordinata.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\obj\Debug\Koordinata.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\obj\Debug\Koordinata.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\obj\Debug\Koordinata.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\obj\Debug\Koordinata.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\obj\Debug\Koordinata.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\obj\Debug\Koordinata.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Koordinata\obj\Debug\Koordinata.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\bin\Debug\Listak.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\bin\Debug\Listak.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\bin\Debug\Listak.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\obj\Debug\Listak.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\obj\Debug\Listak.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\obj\Debug\Listak.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\obj\Debug\Listak.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\obj\Debug\Listak.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\obj\Debug\Listak.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Listak\obj\Debug\Listak.pdb

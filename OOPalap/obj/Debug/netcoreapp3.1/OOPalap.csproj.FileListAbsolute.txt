@@ -1,0 +1,13 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\bin\Debug\netcoreapp3.1\OOPalap.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\bin\Debug\netcoreapp3.1\OOPalap.deps.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\bin\Debug\netcoreapp3.1\OOPalap.runtimeconfig.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\bin\Debug\netcoreapp3.1\OOPalap.runtimeconfig.dev.json
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\bin\Debug\netcoreapp3.1\OOPalap.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\bin\Debug\netcoreapp3.1\OOPalap.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\obj\Debug\netcoreapp3.1\OOPalap.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\obj\Debug\netcoreapp3.1\OOPalap.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\obj\Debug\netcoreapp3.1\OOPalap.AssemblyInfoInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\obj\Debug\netcoreapp3.1\OOPalap.AssemblyInfo.cs
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\obj\Debug\netcoreapp3.1\OOPalap.dll
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\obj\Debug\netcoreapp3.1\OOPalap.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\OOPalap\obj\Debug\netcoreapp3.1\OOPalap.genruntimeconfig.cache

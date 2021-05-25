@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\bin\Debug\JegyAr.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\bin\Debug\JegyAr.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\bin\Debug\JegyAr.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\obj\Debug\JegyAr.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\obj\Debug\JegyAr.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\obj\Debug\JegyAr.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\obj\Debug\JegyAr.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\obj\Debug\JegyAr.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\obj\Debug\JegyAr.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\JegyAr\obj\Debug\JegyAr.pdb
