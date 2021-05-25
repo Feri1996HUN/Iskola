@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\bin\Debug\Csillagjegy.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\bin\Debug\Csillagjegy.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\bin\Debug\Csillagjegy.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\obj\Debug\Csillagjegy.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\obj\Debug\Csillagjegy.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\obj\Debug\Csillagjegy.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\obj\Debug\Csillagjegy.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\obj\Debug\Csillagjegy.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\obj\Debug\Csillagjegy.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Csillagjegy\obj\Debug\Csillagjegy.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\bin\Debug\Datumnoveles.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\bin\Debug\Datumnoveles.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\bin\Debug\Datumnoveles.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\obj\Debug\Datumnoveles.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\obj\Debug\Datumnoveles.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\obj\Debug\Datumnoveles.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\obj\Debug\Datumnoveles.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\obj\Debug\Datumnoveles.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\obj\Debug\Datumnoveles.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Datumnoveles\obj\Debug\Datumnoveles.pdb

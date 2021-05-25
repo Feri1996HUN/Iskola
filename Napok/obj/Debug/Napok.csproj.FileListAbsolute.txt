@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\bin\Debug\Napok.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\bin\Debug\Napok.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\bin\Debug\Napok.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\obj\Debug\Napok.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\obj\Debug\Napok.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\obj\Debug\Napok.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\obj\Debug\Napok.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\obj\Debug\Napok.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\obj\Debug\Napok.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Napok\obj\Debug\Napok.pdb
