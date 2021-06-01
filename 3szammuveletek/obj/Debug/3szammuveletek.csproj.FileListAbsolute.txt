@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\bin\Debug\3szammuveletek.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\bin\Debug\3szammuveletek.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\bin\Debug\3szammuveletek.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\obj\Debug\3szammuveletek.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\obj\Debug\_3szammuveletek.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\obj\Debug\_3szammuveletek.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\obj\Debug\3szammuveletek.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\obj\Debug\3szammuveletek.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\obj\Debug\3szammuveletek.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\3szammuveletek\obj\Debug\3szammuveletek.pdb

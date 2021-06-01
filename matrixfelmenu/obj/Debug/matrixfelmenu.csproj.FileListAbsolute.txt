@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\bin\Debug\matrixfelmenu.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\bin\Debug\matrixfelmenu.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\bin\Debug\matrixfelmenu.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\obj\Debug\matrixfelmenu.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\obj\Debug\matrixfelmenu.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\obj\Debug\matrixfelmenu.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\obj\Debug\matrixfelmenu.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\obj\Debug\matrixfelmenu.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\obj\Debug\matrixfelmenu.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\matrixfelmenu\obj\Debug\matrixfelmenu.pdb

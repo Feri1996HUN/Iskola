@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\bin\Debug\Kereses.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\bin\Debug\Kereses.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\bin\Debug\Kereses.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\obj\Debug\Kereses.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\obj\Debug\Kereses.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\obj\Debug\Kereses.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\obj\Debug\Kereses.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\obj\Debug\Kereses.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\obj\Debug\Kereses.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kereses\obj\Debug\Kereses.pdb

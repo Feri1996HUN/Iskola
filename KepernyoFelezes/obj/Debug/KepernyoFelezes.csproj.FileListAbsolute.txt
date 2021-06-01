@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\bin\Debug\KepernyoFelezes.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\bin\Debug\KepernyoFelezes.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\bin\Debug\KepernyoFelezes.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\obj\Debug\KepernyoFelezes.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\obj\Debug\KepernyoFelezes.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\obj\Debug\KepernyoFelezes.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\obj\Debug\KepernyoFelezes.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\obj\Debug\KepernyoFelezes.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\obj\Debug\KepernyoFelezes.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\KepernyoFelezes\obj\Debug\KepernyoFelezes.pdb
