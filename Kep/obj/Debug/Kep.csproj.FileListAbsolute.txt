@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\bin\Debug\Kep.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\bin\Debug\Kep.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\bin\Debug\Kep.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\obj\Debug\Kep.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\obj\Debug\Kep.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\obj\Debug\Kep.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\obj\Debug\Kep.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\obj\Debug\Kep.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\obj\Debug\Kep.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Kep\obj\Debug\Kep.pdb

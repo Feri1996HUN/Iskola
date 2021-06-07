@@ -1,0 +1,9 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\bin\Debug\Szinvalaszto.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\bin\Debug\Szinvalaszto.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\bin\Debug\Szinvalaszto.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\obj\Debug\Szinvalaszto.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\obj\Debug\Szinvalaszto.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\obj\Debug\Szinvalaszto.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\obj\Debug\Szinvalaszto.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\obj\Debug\Szinvalaszto.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szinvalaszto\obj\Debug\Szinvalaszto.pdb

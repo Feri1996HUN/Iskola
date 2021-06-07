@@ -1,0 +1,9 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\bin\Debug\Szovegesfile.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\bin\Debug\Szovegesfile.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\bin\Debug\Szovegesfile.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\obj\Debug\Szovegesfile.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\obj\Debug\Szovegesfile.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\obj\Debug\Szovegesfile.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\obj\Debug\Szovegesfile.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\obj\Debug\Szovegesfile.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szovegesfile\obj\Debug\Szovegesfile.pdb

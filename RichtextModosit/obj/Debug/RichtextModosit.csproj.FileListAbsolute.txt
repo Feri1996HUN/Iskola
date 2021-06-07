@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\bin\Debug\RichtextModosit.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\bin\Debug\RichtextModosit.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\bin\Debug\RichtextModosit.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\obj\Debug\RichtextModosit.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\obj\Debug\RichtextModosit.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\obj\Debug\RichtextModosit.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\obj\Debug\RichtextModosit.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\obj\Debug\RichtextModosit.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\obj\Debug\RichtextModosit.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\RichtextModosit\obj\Debug\RichtextModosit.pdb

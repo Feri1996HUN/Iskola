@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\bin\Debug\MatrixTabcontrol.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\bin\Debug\MatrixTabcontrol.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\bin\Debug\MatrixTabcontrol.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\obj\Debug\MatrixTabcontrol.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\obj\Debug\MatrixTabcontrol.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\obj\Debug\MatrixTabcontrol.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\obj\Debug\MatrixTabcontrol.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\obj\Debug\MatrixTabcontrol.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\obj\Debug\MatrixTabcontrol.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MatrixTabcontrol\obj\Debug\MatrixTabcontrol.pdb
