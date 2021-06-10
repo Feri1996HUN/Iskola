@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\bin\Debug\ModalisForm.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\bin\Debug\ModalisForm.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\bin\Debug\ModalisForm.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\obj\Debug\ModalisForm.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\obj\Debug\ModalisForm.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\obj\Debug\ModalisForm.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\obj\Debug\ModalisForm.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\obj\Debug\ModalisForm.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\obj\Debug\ModalisForm.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisForm\obj\Debug\ModalisForm.pdb

@@ -1,0 +1,12 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\bin\Debug\MemoriaJatekProgram.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\bin\Debug\MemoriaJatekProgram.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\bin\Debug\MemoriaJatekProgram.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.Megold.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.Memoria.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\MemoriaJatekProgram\obj\Debug\MemoriaJatekProgram.csprojAssemblyReference.cache

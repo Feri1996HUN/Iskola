@@ -1,0 +1,11 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\bin\Debug\ModalisFormSzambekeres.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\bin\Debug\ModalisFormSzambekeres.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\bin\Debug\ModalisFormSzambekeres.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.Beker.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisFormSzambekeres\obj\Debug\ModalisFormSzambekeres.pdb

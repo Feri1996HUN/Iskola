@@ -1,0 +1,11 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\bin\Debug\NemModalisForm.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\bin\Debug\NemModalisForm.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\bin\Debug\NemModalisForm.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.Uzenet.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\NemModalisForm\obj\Debug\NemModalisForm.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\bin\Debug\Szamtipp.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\bin\Debug\Szamtipp.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\bin\Debug\Szamtipp.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\obj\Debug\Szamtipp.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\obj\Debug\Szamtipp.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\obj\Debug\Szamtipp.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\obj\Debug\Szamtipp.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\obj\Debug\Szamtipp.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\obj\Debug\Szamtipp.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\Szamtipp\obj\Debug\Szamtipp.pdb

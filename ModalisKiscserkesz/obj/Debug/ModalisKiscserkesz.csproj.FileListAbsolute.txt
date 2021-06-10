@@ -1,0 +1,11 @@
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\bin\Debug\ModalisKiscserkesz.exe.config
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\bin\Debug\ModalisKiscserkesz.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\bin\Debug\ModalisKiscserkesz.pdb
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.csprojAssemblyReference.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.Adatbevitel.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.MainForm.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.Properties.Resources.resources
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.exe
+C:\Users\Mérész Ferenc\Desktop\Iskola\Iskola\ModalisKiscserkesz\obj\Debug\ModalisKiscserkesz.pdb
