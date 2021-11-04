@@ -1,0 +1,10 @@
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\bin\Debug\SzeptHazi4.exe.config
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\bin\Debug\SzeptHazi4.exe
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\bin\Debug\SzeptHazi4.pdb
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\obj\Debug\SzeptHazi4.csproj.AssemblyReference.cache
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\obj\Debug\SzeptHazi4.Form1.resources
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\obj\Debug\SzeptHazi4.Properties.Resources.resources
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\obj\Debug\SzeptHazi4.csproj.GenerateResource.cache
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\obj\Debug\SzeptHazi4.csproj.CoreCompileInputs.cache
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\obj\Debug\SzeptHazi4.exe
+C:\Users\2020532\source\repos\Iskola\SzeptHazi4\obj\Debug\SzeptHazi4.pdb
