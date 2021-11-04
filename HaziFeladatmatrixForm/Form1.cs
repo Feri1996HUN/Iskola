@@ -26,6 +26,7 @@ namespace HaziFeladatmatrixForm
             General2();
             Skalar();
             AtloOsszeg();
+            Terulet();
         }
 
         private void General2()
@@ -106,19 +107,34 @@ namespace HaziFeladatmatrixForm
 
         private void Terulet()
         {
-            int terulet = 0, szamlalo = 0;
+            int terulet = 0, n=0;
 
-            for (int i = 0; i < (int)nudMatrix.Value; i++)
+            if (Convert.ToInt32(nudMatrix.Value) % 2 == 0)
             {
-                for (int p = 0; p < (int)nudMatrix.Value; p++)
+                for (int i = 0; i < (int)nudMatrix.Value / 2 - 1; i++)
                 {
-                    
-
+                    for (int p = 1 + n; p < (int)nudMatrix.Value - i - 1; p++)
+                    {
+                        terulet += Convert.ToInt32(dgvMatrix1.Rows[i].Cells[p].Value);
+                    }
+                    n++;
                 }
+                lblTerulet.Text = String.Format("Az első mátrix két átló feletti terület összege: {0}", terulet);
             }
-
-
+            else
+            {
+                for (int i = 0; i < ((int)nudMatrix.Value -1 )/2; i++)
+                {
+                    for (int p = 1 + n; p < (int)nudMatrix.Value - i - 1; p++)
+                    {
+                        terulet += Convert.ToInt32(dgvMatrix1.Rows[i].Cells[p].Value);
+                    }
+                    n++;
+                }
+                lblTerulet.Text = String.Format("Az első mátrix két átló feletti terület összege: {0}", terulet);
+            }
         }
+
 
 
     }

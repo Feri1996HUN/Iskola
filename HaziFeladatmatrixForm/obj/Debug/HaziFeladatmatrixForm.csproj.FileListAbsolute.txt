@@ -8,3 +8,13 @@ C:\Users\Mérész Ferenc\source\repos\Iskola\HaziFeladatmatrixForm\obj\Debug\Haz
 C:\Users\Mérész Ferenc\source\repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.csproj.CoreCompileInputs.cache
 C:\Users\Mérész Ferenc\source\repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.exe
 C:\Users\Mérész Ferenc\source\repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.pdb
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\bin\Debug\HaziFeladatmatrixForm.exe.config
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\bin\Debug\HaziFeladatmatrixForm.exe
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\bin\Debug\HaziFeladatmatrixForm.pdb
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.csproj.AssemblyReference.cache
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.Form1.resources
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.Properties.Resources.resources
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.csproj.GenerateResource.cache
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.csproj.CoreCompileInputs.cache
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.exe
+C:\Users\2020532\Source\Repos\Iskola\HaziFeladatmatrixForm\obj\Debug\HaziFeladatmatrixForm.pdb

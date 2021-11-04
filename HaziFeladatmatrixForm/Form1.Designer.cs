@@ -33,19 +33,20 @@ namespace HaziFeladatmatrixForm
             this.nudMatrix = new System.Windows.Forms.NumericUpDown();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.dgvMatrix1 = new System.Windows.Forms.DataGridView();
-            this.dgvMatrix2 = new System.Windows.Forms.DataGridView();
-            this.btnGeneral = new System.Windows.Forms.Button();
-            this.lblSkalar = new System.Windows.Forms.Label();
             this.lblAtlo = new System.Windows.Forms.Label();
+            this.lblSkalar = new System.Windows.Forms.Label();
+            this.btnGeneral = new System.Windows.Forms.Button();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.dgvMatrix1 = new System.Windows.Forms.DataGridView();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.dgvMatrix2 = new System.Windows.Forms.DataGridView();
+            this.lblTerulet = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.nudMatrix)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
-            this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMatrix1)).BeginInit();
+            this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMatrix2)).BeginInit();
             this.SuspendLayout();
             // 
@@ -94,6 +95,7 @@ namespace HaziFeladatmatrixForm
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.lblTerulet);
             this.tabPage1.Controls.Add(this.lblAtlo);
             this.tabPage1.Controls.Add(this.lblSkalar);
             this.tabPage1.Controls.Add(this.btnGeneral);
@@ -107,6 +109,34 @@ namespace HaziFeladatmatrixForm
             this.tabPage1.Text = "Főoldal";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // lblAtlo
+            // 
+            this.lblAtlo.AutoSize = true;
+            this.lblAtlo.Location = new System.Drawing.Point(16, 134);
+            this.lblAtlo.Name = "lblAtlo";
+            this.lblAtlo.Size = new System.Drawing.Size(58, 13);
+            this.lblAtlo.TabIndex = 4;
+            this.lblAtlo.Text = "Átlóösszeg";
+            // 
+            // lblSkalar
+            // 
+            this.lblSkalar.AutoSize = true;
+            this.lblSkalar.Location = new System.Drawing.Point(16, 91);
+            this.lblSkalar.Name = "lblSkalar";
+            this.lblSkalar.Size = new System.Drawing.Size(37, 13);
+            this.lblSkalar.TabIndex = 3;
+            this.lblSkalar.Text = "Skalár";
+            // 
+            // btnGeneral
+            // 
+            this.btnGeneral.Location = new System.Drawing.Point(423, 37);
+            this.btnGeneral.Name = "btnGeneral";
+            this.btnGeneral.Size = new System.Drawing.Size(75, 23);
+            this.btnGeneral.TabIndex = 2;
+            this.btnGeneral.Text = "Generál";
+            this.btnGeneral.UseVisualStyleBackColor = true;
+            this.btnGeneral.Click += new System.EventHandler(this.btnGeneral_Click);
+            // 
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.dgvMatrix1);
@@ -117,6 +147,15 @@ namespace HaziFeladatmatrixForm
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Mátrix 1";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // dgvMatrix1
+            // 
+            this.dgvMatrix1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvMatrix1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvMatrix1.Location = new System.Drawing.Point(3, 3);
+            this.dgvMatrix1.Name = "dgvMatrix1";
+            this.dgvMatrix1.Size = new System.Drawing.Size(786, 418);
+            this.dgvMatrix1.TabIndex = 0;
             // 
             // tabPage3
             // 
@@ -129,15 +168,6 @@ namespace HaziFeladatmatrixForm
             this.tabPage3.Text = "Mátrix 2";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
-            // dgvMatrix1
-            // 
-            this.dgvMatrix1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvMatrix1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvMatrix1.Location = new System.Drawing.Point(3, 3);
-            this.dgvMatrix1.Name = "dgvMatrix1";
-            this.dgvMatrix1.Size = new System.Drawing.Size(786, 418);
-            this.dgvMatrix1.TabIndex = 0;
-            // 
             // dgvMatrix2
             // 
             this.dgvMatrix2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -147,33 +177,14 @@ namespace HaziFeladatmatrixForm
             this.dgvMatrix2.Size = new System.Drawing.Size(786, 418);
             this.dgvMatrix2.TabIndex = 0;
             // 
-            // btnGeneral
+            // lblTerulet
             // 
-            this.btnGeneral.Location = new System.Drawing.Point(423, 37);
-            this.btnGeneral.Name = "btnGeneral";
-            this.btnGeneral.Size = new System.Drawing.Size(75, 23);
-            this.btnGeneral.TabIndex = 2;
-            this.btnGeneral.Text = "Generál";
-            this.btnGeneral.UseVisualStyleBackColor = true;
-            this.btnGeneral.Click += new System.EventHandler(this.btnGeneral_Click);
-            // 
-            // lblSkalar
-            // 
-            this.lblSkalar.AutoSize = true;
-            this.lblSkalar.Location = new System.Drawing.Point(16, 91);
-            this.lblSkalar.Name = "lblSkalar";
-            this.lblSkalar.Size = new System.Drawing.Size(37, 13);
-            this.lblSkalar.TabIndex = 3;
-            this.lblSkalar.Text = "Skalár";
-            // 
-            // lblAtlo
-            // 
-            this.lblAtlo.AutoSize = true;
-            this.lblAtlo.Location = new System.Drawing.Point(16, 134);
-            this.lblAtlo.Name = "lblAtlo";
-            this.lblAtlo.Size = new System.Drawing.Size(58, 13);
-            this.lblAtlo.TabIndex = 4;
-            this.lblAtlo.Text = "Átlóösszeg";
+            this.lblTerulet.AutoSize = true;
+            this.lblTerulet.Location = new System.Drawing.Point(16, 174);
+            this.lblTerulet.Name = "lblTerulet";
+            this.lblTerulet.Size = new System.Drawing.Size(40, 13);
+            this.lblTerulet.TabIndex = 5;
+            this.lblTerulet.Text = "Terület";
             // 
             // Form1
             // 
@@ -188,8 +199,8 @@ namespace HaziFeladatmatrixForm
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
             this.tabPage2.ResumeLayout(false);
-            this.tabPage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMatrix1)).EndInit();
+            this.tabPage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMatrix2)).EndInit();
             this.ResumeLayout(false);
 
@@ -208,6 +219,7 @@ namespace HaziFeladatmatrixForm
         private System.Windows.Forms.Button btnGeneral;
         private System.Windows.Forms.Label lblSkalar;
         private System.Windows.Forms.Label lblAtlo;
+        private System.Windows.Forms.Label lblTerulet;
     }
 }
 
