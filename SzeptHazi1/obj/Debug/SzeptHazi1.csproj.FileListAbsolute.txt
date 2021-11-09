@@ -1,0 +1,10 @@
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\bin\Debug\SzeptHazi1.exe.config
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\bin\Debug\SzeptHazi1.exe
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\bin\Debug\SzeptHazi1.pdb
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\obj\Debug\SzeptHazi1.csproj.AssemblyReference.cache
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\obj\Debug\SzeptHazi1.Form1.resources
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\obj\Debug\SzeptHazi1.Properties.Resources.resources
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\obj\Debug\SzeptHazi1.csproj.GenerateResource.cache
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\obj\Debug\SzeptHazi1.csproj.CoreCompileInputs.cache
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\obj\Debug\SzeptHazi1.exe
+C:\Users\Mérész Ferenc\source\repos\Iskola\SzeptHazi1\obj\Debug\SzeptHazi1.pdb
