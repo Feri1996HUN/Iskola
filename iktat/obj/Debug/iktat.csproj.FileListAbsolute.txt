@@ -1,0 +1,16 @@
+C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.mdf
+C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat_log.ldf
+C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.exe.config
+C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.exe
+C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.pdb
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.csproj.AssemblyReference.cache
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.Properties.Resources.resources
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.csproj.GenerateResource.cache
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.csproj.CoreCompileInputs.cache
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.exe
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.pdb
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.MainForm.resources
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.Users.resources
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.lettersgrid.resources
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.letterone.resources
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.iktatform.resources
