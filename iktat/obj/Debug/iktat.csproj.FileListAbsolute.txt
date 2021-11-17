@@ -1,5 +1,3 @@
-C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.mdf
-C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat_log.ldf
 C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.exe.config
 C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.exe
 C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktat.pdb
@@ -14,3 +12,6 @@ C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.Users.resources
 C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.lettersgrid.resources
 C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.letterone.resources
 C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.iktatform.resources
+C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.usertetel.resources
+C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktato.mdf
+C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktato_log.ldf

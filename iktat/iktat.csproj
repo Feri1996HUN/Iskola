@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -61,11 +61,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="felhasznloktabla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="felhasznloktabla.Designer.cs">
+      <DependentUpon>felhasznloktabla.cs</DependentUpon>
+    </Compile>
     <Compile Include="iktatform.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="iktatform.Designer.cs">
       <DependentUpon>iktatform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iktatofelhaszntobbDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>iktatofelhaszntobbDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="iktatoletterDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>iktatoletterDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="iktatolevelekDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>iktatolevelekDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="iktatouserDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>iktatouserDS.xsd</DependentUpon>
     </Compile>
     <Compile Include="letterone.cs">
       <SubType>Form</SubType>
@@ -96,13 +122,14 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>iktatDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="letterDS.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>letterDS.xsd</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="usertetel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usertetel.Designer.cs">
+      <DependentUpon>usertetel.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="iktatform.resx">
       <DependentUpon>iktatform.cs</DependentUpon>
     </EmbeddedResource>
@@ -127,6 +154,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="usertetel.resx">
+      <DependentUpon>usertetel.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="iktatDataSet.xsc">
       <DependentUpon>iktatDataSet.xsd</DependentUpon>
     </None>
@@ -138,16 +168,49 @@
     <None Include="iktatDataSet.xss">
       <DependentUpon>iktatDataSet.xsd</DependentUpon>
     </None>
-    <None Include="letterDS.xsc">
-      <DependentUpon>letterDS.xsd</DependentUpon>
+    <None Include="iktatofelhaszntobbDS.xsc">
+      <DependentUpon>iktatofelhaszntobbDS.xsd</DependentUpon>
     </None>
-    <None Include="letterDS.xsd">
+    <None Include="iktatofelhaszntobbDS.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>letterDS.Designer.cs</LastGenOutput>
+      <LastGenOutput>iktatofelhaszntobbDS.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="letterDS.xss">
-      <DependentUpon>letterDS.xsd</DependentUpon>
+    <None Include="iktatofelhaszntobbDS.xss">
+      <DependentUpon>iktatofelhaszntobbDS.xsd</DependentUpon>
+    </None>
+    <None Include="iktatoletterDS.xsc">
+      <DependentUpon>iktatoletterDS.xsd</DependentUpon>
+    </None>
+    <None Include="iktatoletterDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>iktatoletterDS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="iktatoletterDS.xss">
+      <DependentUpon>iktatoletterDS.xsd</DependentUpon>
+    </None>
+    <None Include="iktatolevelekDS.xsc">
+      <DependentUpon>iktatolevelekDS.xsd</DependentUpon>
+    </None>
+    <None Include="iktatolevelekDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>iktatolevelekDS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="iktatolevelekDS.xss">
+      <DependentUpon>iktatolevelekDS.xsd</DependentUpon>
+    </None>
+    <None Include="iktatouserDS.xsc">
+      <DependentUpon>iktatouserDS.xsd</DependentUpon>
+    </None>
+    <None Include="iktatouserDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>iktatouserDS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="iktatouserDS.xss">
+      <DependentUpon>iktatouserDS.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -163,12 +226,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="iktat.mdf">
+    <Content Include="iktato.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="iktat_log.ldf">
+    <Content Include="iktato_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>iktat.mdf</DependentUpon>
+      <DependentUpon>iktato.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <ItemGroup>

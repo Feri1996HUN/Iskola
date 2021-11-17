@@ -30,43 +30,20 @@ namespace iktat
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.iktatDataSet = new iktat.iktatDataSet();
             this.usersBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.usersTableAdapter = new iktat.iktatDataSetTableAdapters.usersTableAdapter();
-            this.tableAdapterManager = new iktat.iktatDataSetTableAdapters.TableAdapterManager();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.felhasználókToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.valami1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.valami2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.levelekToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.iktatásToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.levélToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.levélListaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.valami1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.valami2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            ((System.ComponentModel.ISupportInitialize)(this.iktatDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.usersBindingSource)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // iktatDataSet
-            // 
-            this.iktatDataSet.DataSetName = "iktatDataSet";
-            this.iktatDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // usersBindingSource
-            // 
-            this.usersBindingSource.DataMember = "users";
-            this.usersBindingSource.DataSource = this.iktatDataSet;
-            // 
-            // usersTableAdapter
-            // 
-            this.usersTableAdapter.ClearBeforeFill = true;
-            // 
-            // tableAdapterManager
-            // 
-            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
-            this.tableAdapterManager.UpdateOrder = iktat.iktatDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
-            this.tableAdapterManager.usersTableAdapter = this.usersTableAdapter;
-            // 
+            
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -87,6 +64,20 @@ namespace iktat
             this.felhasználókToolStripMenuItem.Size = new System.Drawing.Size(86, 20);
             this.felhasználókToolStripMenuItem.Text = "Felhasználók";
             // 
+            // valami1ToolStripMenuItem
+            // 
+            this.valami1ToolStripMenuItem.Name = "valami1ToolStripMenuItem";
+            this.valami1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.valami1ToolStripMenuItem.Text = "Egy Felhasználó";
+            this.valami1ToolStripMenuItem.Click += new System.EventHandler(this.valami1ToolStripMenuItem_Click);
+            // 
+            // valami2ToolStripMenuItem
+            // 
+            this.valami2ToolStripMenuItem.Name = "valami2ToolStripMenuItem";
+            this.valami2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.valami2ToolStripMenuItem.Text = "Felhasználók tábla";
+            this.valami2ToolStripMenuItem.Click += new System.EventHandler(this.valami2ToolStripMenuItem_Click);
+            // 
             // levelekToolStripMenuItem
             // 
             this.levelekToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -100,35 +91,23 @@ namespace iktat
             // iktatásToolStripMenuItem
             // 
             this.iktatásToolStripMenuItem.Name = "iktatásToolStripMenuItem";
-            this.iktatásToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.iktatásToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.iktatásToolStripMenuItem.Text = "Iktatás";
             this.iktatásToolStripMenuItem.Click += new System.EventHandler(this.iktatásToolStripMenuItem_Click);
             // 
             // levélToolStripMenuItem
             // 
             this.levélToolStripMenuItem.Name = "levélToolStripMenuItem";
-            this.levélToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.levélToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.levélToolStripMenuItem.Text = "levél";
             this.levélToolStripMenuItem.Click += new System.EventHandler(this.levélToolStripMenuItem_Click);
             // 
             // levélListaToolStripMenuItem
             // 
             this.levélListaToolStripMenuItem.Name = "levélListaToolStripMenuItem";
-            this.levélListaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.levélListaToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.levélListaToolStripMenuItem.Text = "levelek lista";
             this.levélListaToolStripMenuItem.Click += new System.EventHandler(this.levélListaToolStripMenuItem_Click);
-            // 
-            // valami1ToolStripMenuItem
-            // 
-            this.valami1ToolStripMenuItem.Name = "valami1ToolStripMenuItem";
-            this.valami1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.valami1ToolStripMenuItem.Text = "valami1";
-            // 
-            // valami2ToolStripMenuItem
-            // 
-            this.valami2ToolStripMenuItem.Name = "valami2ToolStripMenuItem";
-            this.valami2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.valami2ToolStripMenuItem.Text = "valami2";
             // 
             // MainForm
             // 
@@ -139,7 +118,6 @@ namespace iktat
             this.Name = "MainForm";
             this.Text = "Felhasználó";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.iktatDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.usersBindingSource)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -150,10 +128,7 @@ namespace iktat
 
         #endregion
 
-        private iktatDataSet iktatDataSet;
         private System.Windows.Forms.BindingSource usersBindingSource;
-        private iktatDataSetTableAdapters.usersTableAdapter usersTableAdapter;
-        private iktatDataSetTableAdapters.TableAdapterManager tableAdapterManager;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem felhasználókToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem levelekToolStripMenuItem;

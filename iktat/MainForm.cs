@@ -21,14 +21,12 @@ namespace iktat
         {
             this.Validate();
             this.usersBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.iktatDataSet);
 
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'iktatDataSet.users' table. You can move, or remove it, as needed.
-            this.usersTableAdapter.Fill(this.iktatDataSet.users);
 
         }
 
@@ -47,6 +45,18 @@ namespace iktat
         private void iktatásToolStripMenuItem_Click(object sender, EventArgs e)
         {
             iktatform frm = new iktatform();
+            frm.ShowDialog();
+        }
+
+        private void valami1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            usertetel frm = new usertetel();
+            frm.ShowDialog();
+        }
+
+        private void valami2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            felhasznloktabla frm = new felhasznloktabla();
             frm.ShowDialog();
         }
     }

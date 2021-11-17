@@ -15,8 +15,8 @@ namespace iktat
     {
         // Osztályváltozók
         private SqlConnection sqlConn;
-        private string letterInstert = "letterInstert";
-
+        //private string letterInstert = "letterInstert";
+        public string insert = "INSERT INTO letters (erkezett, targy, leiras, id_user) VALUES (@erkezett, @targy, @leiras, @user) RETURN 0";
 
 
         public iktatform()
@@ -26,11 +26,6 @@ namespace iktat
 
         private void iktatform_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'iktatDataSet.users' table. You can move, or remove it, as needed.
-            this.usersTableAdapter1.Fill(this.iktatDataSet.users);
-            // TODO: This line of code loads data into the 'letterDS.users' table. You can move, or remove it, as needed.
-            this.usersTableAdapter.Fill(this.letterDS.users);
-            // Kapcsolódás a adatbázishoz
             sqlConnect();
 
 
@@ -91,13 +86,13 @@ Login failed for user 'BP\2020532'.
 
         private void insertletter()
         {
-            using (SqlCommand sqlCom = new SqlCommand(letterInstert, sqlConn))
+            using (SqlCommand sqlCom = new SqlCommand(insert, sqlConn))
             {
-
-                sqlCom.Parameters.AddWithValue("erkezett", dtpErkezett.Value);
-                sqlCom.Parameters.AddWithValue("targy", tbxTargy.Text);
-                sqlCom.Parameters.AddWithValue("leiras", rtbleiras.Text);
-                sqlCom.Parameters.AddWithValue("user", cbxCimzett.SelectedValue);
+                // JAVíTANI !!!!!!!!!!!!
+                //sqlCom.Parameters.AddWithValue("erkezett", dtpErkezett.Value);
+               // sqlCom.Parameters.AddWithValue("targy", tbxTargy.Text);
+                //sqlCom.Parameters.AddWithValue("leiras", rtbleiras.Text);
+               // sqlCom.Parameters.AddWithValue("user", cbxCimzett.SelectedValue);
 
                 try
                 {
@@ -122,9 +117,9 @@ Login failed for user 'BP\2020532'.
 
         private void clearfields()
         {
-            //Beviteli mezők kiürítése
-            tbxTargy.Text = String.Empty;
-            rtbleiras.Text = String.Empty;
+            //Beviteli mezők kiürítése      JAVÍTANI
+           // tbxTargy.Text = String.Empty;
+           // rtbleiras.Text = String.Empty;
         }
 
         private void iktatform_FormClosed(object sender, FormClosedEventArgs e)
