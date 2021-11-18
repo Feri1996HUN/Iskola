@@ -16,6 +16,7 @@ namespace iktat
         // Osztályváltozók
         private SqlConnection sqlConn;
         private string letterInstert = "letterInstert";
+        private string userstocbx = "userstocbx";
         //public string insert = "INSERT INTO letters (erkezett, targy, leiras, id_user) VALUES (@erkezett, @targy, @leiras, @user) RETURN 0";
 
 
@@ -36,8 +37,9 @@ namespace iktat
             this.lettersTableAdapter.Fill(this.iktato2LevelekDS.letters);
             sqlConnect();
 
+            UserCbxFill(userstocbx, sqlConn);
 
-            
+
         }
 
         private void sqlConnect()
@@ -91,15 +93,45 @@ Login failed for user 'BP\2020532'.
          */
 
         //Kipróbálni: make sure that the .mdf file is not readonly; and try to run the VS in administrator.
+        
+        private void UserCbxFill(string userstocbx, SqlConnection sqlConn)
+        {
+            try
+            {
+                //Datatable feltöltése az adatbázisból
+                SqlDataAdapter sqlDa = new SqlDataAdapter(sqlConn);
+                DataTable dtbl = new DataTable();
+                sqlDa.Fill(dtbl);
+
+                //Az első sor közvetlen bevitele
+                DataRow rowItem = dtbl.NewRow();
+                rowItem[0] = 0;
+                rowItem[1] = "- Válasszon -";
+                dtbl.Rows.InsertAt(rowItem, 0);
+
+                // A combobox komponens bekötése a datatablehöz
+                id_userComboBox.ValueMember = "id_user";
+                id_userComboBox.DisplayMember = "nev";
+                id_userComboBox.DataSource = dtbl;
+            }
+            catch (Exception err)
+            {
+                MessageBox.Show(err.Message);
+            }
+            
+        }
+
+
 
         private void insertletter()
         {
             using (SqlCommand sqlCom = new SqlCommand(letterInstert, sqlConn))
             {
+               
               sqlCom.Parameters.AddWithValue("erkezett", erkezettDateTimePicker.Value);
               sqlCom.Parameters.AddWithValue("targy", targyTextBox.Text);
               sqlCom.Parameters.AddWithValue("leiras", leirasTextBox.Text);
-              sqlCom.Parameters.AddWithValue("id_user", Convert.ToInt32(id_userComboBox.SelectedValue));
+              sqlCom.Parameters.AddWithValue("user", Convert.ToInt32(id_userComboBox.SelectedValue));
 
                 try
                 {
