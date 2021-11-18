@@ -56,7 +56,7 @@ namespace iktat
 
         private void valami2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            felhasznloktabla frm = new felhasznloktabla();
+            Users frm = new Users();
             frm.ShowDialog();
         }
     }

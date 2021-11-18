@@ -15,8 +15,8 @@ namespace iktat
     {
         // Osztályváltozók
         private SqlConnection sqlConn;
-        //private string letterInstert = "letterInstert";
-        public string insert = "INSERT INTO letters (erkezett, targy, leiras, id_user) VALUES (@erkezett, @targy, @leiras, @user) RETURN 0";
+        private string letterInstert = "letterInstert";
+        //public string insert = "INSERT INTO letters (erkezett, targy, leiras, id_user) VALUES (@erkezett, @targy, @leiras, @user) RETURN 0";
 
 
         public iktatform()
@@ -26,6 +26,14 @@ namespace iktat
 
         private void iktatform_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'iktato2LevelekDS.users' table. You can move, or remove it, as needed.
+            this.usersTableAdapter.Fill(this.iktato2LevelekDS.users);
+            // TODO: This line of code loads data into the 'iktato2LevelekDS.letters' table. You can move, or remove it, as needed.
+            this.lettersTableAdapter.Fill(this.iktato2LevelekDS.letters);
+            // TODO: This line of code loads data into the 'iktato2LevelekDS.users' table. You can move, or remove it, as needed.
+            this.usersTableAdapter.Fill(this.iktato2LevelekDS.users);
+            // TODO: This line of code loads data into the 'iktato2LevelekDS.letters' table. You can move, or remove it, as needed.
+            this.lettersTableAdapter.Fill(this.iktato2LevelekDS.letters);
             sqlConnect();
 
 
@@ -36,7 +44,7 @@ namespace iktat
         {
             SqlConnectionStringBuilder sb = new SqlConnectionStringBuilder();
             sb.DataSource = "(localdb)\\MSSQlLocalDB";
-            sb.InitialCatalog = "iktat";
+            sb.InitialCatalog = "iktato2";
 
             try
             {
@@ -61,7 +69,7 @@ namespace iktat
             insertletter();
         }
 
-        /*
+        /*  MEGOLDVA   MEGOLDVA  !!!
          stored procedure létrehozni ->
         CREATE PROCEDURE [dbo].letterInstert
 	@erkezett date,
@@ -86,13 +94,12 @@ Login failed for user 'BP\2020532'.
 
         private void insertletter()
         {
-            using (SqlCommand sqlCom = new SqlCommand(insert, sqlConn))
+            using (SqlCommand sqlCom = new SqlCommand(letterInstert, sqlConn))
             {
-                // JAVíTANI !!!!!!!!!!!!
-                //sqlCom.Parameters.AddWithValue("erkezett", dtpErkezett.Value);
-               // sqlCom.Parameters.AddWithValue("targy", tbxTargy.Text);
-                //sqlCom.Parameters.AddWithValue("leiras", rtbleiras.Text);
-               // sqlCom.Parameters.AddWithValue("user", cbxCimzett.SelectedValue);
+              sqlCom.Parameters.AddWithValue("erkezett", erkezettDateTimePicker.Value);
+              sqlCom.Parameters.AddWithValue("targy", targyTextBox.Text);
+              sqlCom.Parameters.AddWithValue("leiras", leirasTextBox.Text);
+              sqlCom.Parameters.AddWithValue("id_user", Convert.ToInt32(id_userComboBox.SelectedValue));
 
                 try
                 {
@@ -117,14 +124,30 @@ Login failed for user 'BP\2020532'.
 
         private void clearfields()
         {
-            //Beviteli mezők kiürítése      JAVÍTANI
-           // tbxTargy.Text = String.Empty;
-           // rtbleiras.Text = String.Empty;
+            //Beviteli mezők kiürítése      
+            targyTextBox.Text = String.Empty;
+            leirasTextBox.Text = String.Empty;
         }
 
         private void iktatform_FormClosed(object sender, FormClosedEventArgs e)
         {
             sqlConn.Close();
+        }
+
+        private void lettersBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.lettersBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.iktato2LevelekDS);
+
+        }
+
+        private void lettersBindingNavigatorSaveItem_Click_1(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.lettersBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.iktato2LevelekDS);
+
         }
     }
 

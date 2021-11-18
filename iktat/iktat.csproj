@@ -61,37 +61,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="felhasznloktabla.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="felhasznloktabla.Designer.cs">
-      <DependentUpon>felhasznloktabla.cs</DependentUpon>
-    </Compile>
     <Compile Include="iktatform.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="iktatform.Designer.cs">
       <DependentUpon>iktatform.cs</DependentUpon>
     </Compile>
-    <Compile Include="iktatofelhaszntobbDS.Designer.cs">
+    <Compile Include="iktato2LevelDS.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>iktatofelhaszntobbDS.xsd</DependentUpon>
+      <DependentUpon>iktato2LevelDS.xsd</DependentUpon>
     </Compile>
-    <Compile Include="iktatoletterDS.Designer.cs">
+    <Compile Include="iktato2LevelekDS.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>iktatoletterDS.xsd</DependentUpon>
+      <DependentUpon>iktato2LevelekDS.xsd</DependentUpon>
     </Compile>
-    <Compile Include="iktatolevelekDS.Designer.cs">
+    <Compile Include="iktato2UserDS.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>iktatolevelekDS.xsd</DependentUpon>
+      <DependentUpon>iktato2UserDS.xsd</DependentUpon>
     </Compile>
-    <Compile Include="iktatouserDS.Designer.cs">
+    <Compile Include="iktato2UsersDS.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>iktatouserDS.xsd</DependentUpon>
+      <DependentUpon>iktato2UsersDS.xsd</DependentUpon>
     </Compile>
     <Compile Include="letterone.cs">
       <SubType>Form</SubType>
@@ -116,11 +110,6 @@
     </Compile>
     <Compile Include="Users.Designer.cs">
       <DependentUpon>Users.cs</DependentUpon>
-    </Compile>
-    <Compile Include="iktatDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>iktatDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -157,60 +146,49 @@
     <EmbeddedResource Include="usertetel.resx">
       <DependentUpon>usertetel.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="iktatDataSet.xsc">
-      <DependentUpon>iktatDataSet.xsd</DependentUpon>
+    <None Include="iktato2LevelDS.xsc">
+      <DependentUpon>iktato2LevelDS.xsd</DependentUpon>
     </None>
-    <None Include="iktatDataSet.xsd">
+    <None Include="iktato2LevelDS.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>iktatDataSet.Designer.cs</LastGenOutput>
+      <LastGenOutput>iktato2LevelDS.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="iktatDataSet.xss">
-      <DependentUpon>iktatDataSet.xsd</DependentUpon>
+    <None Include="iktato2LevelDS.xss">
+      <DependentUpon>iktato2LevelDS.xsd</DependentUpon>
     </None>
-    <None Include="iktatofelhaszntobbDS.xsc">
-      <DependentUpon>iktatofelhaszntobbDS.xsd</DependentUpon>
+    <None Include="iktato2LevelekDS.xsc">
+      <DependentUpon>iktato2LevelekDS.xsd</DependentUpon>
     </None>
-    <None Include="iktatofelhaszntobbDS.xsd">
+    <None Include="iktato2LevelekDS.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>iktatofelhaszntobbDS.Designer.cs</LastGenOutput>
+      <LastGenOutput>iktato2LevelekDS.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="iktatofelhaszntobbDS.xss">
-      <DependentUpon>iktatofelhaszntobbDS.xsd</DependentUpon>
+    <None Include="iktato2LevelekDS.xss">
+      <DependentUpon>iktato2LevelekDS.xsd</DependentUpon>
     </None>
-    <None Include="iktatoletterDS.xsc">
-      <DependentUpon>iktatoletterDS.xsd</DependentUpon>
+    <None Include="iktato2UserDS.xsc">
+      <DependentUpon>iktato2UserDS.xsd</DependentUpon>
     </None>
-    <None Include="iktatoletterDS.xsd">
+    <None Include="iktato2UserDS.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>iktatoletterDS.Designer.cs</LastGenOutput>
+      <LastGenOutput>iktato2UserDS.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="iktatoletterDS.xss">
-      <DependentUpon>iktatoletterDS.xsd</DependentUpon>
+    <None Include="iktato2UserDS.xss">
+      <DependentUpon>iktato2UserDS.xsd</DependentUpon>
     </None>
-    <None Include="iktatolevelekDS.xsc">
-      <DependentUpon>iktatolevelekDS.xsd</DependentUpon>
+    <None Include="iktato2UsersDS.xsc">
+      <DependentUpon>iktato2UsersDS.xsd</DependentUpon>
     </None>
-    <None Include="iktatolevelekDS.xsd">
+    <None Include="iktato2UsersDS.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>iktatolevelekDS.Designer.cs</LastGenOutput>
+      <LastGenOutput>iktato2UsersDS.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="iktatolevelekDS.xss">
-      <DependentUpon>iktatolevelekDS.xsd</DependentUpon>
-    </None>
-    <None Include="iktatouserDS.xsc">
-      <DependentUpon>iktatouserDS.xsd</DependentUpon>
-    </None>
-    <None Include="iktatouserDS.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>iktatouserDS.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="iktatouserDS.xss">
-      <DependentUpon>iktatouserDS.xsd</DependentUpon>
+    <None Include="iktato2UsersDS.xss">
+      <DependentUpon>iktato2UsersDS.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -224,15 +202,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="iktato.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="iktato_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>iktato.mdf</DependentUpon>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

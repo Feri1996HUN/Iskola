@@ -44,5 +44,16 @@ namespace iktat.Properties {
                 return ((string)(this["iktatoConnStr"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=iktato2;Integrated Security=Tr" +
+            "ue;Pooling=False")]
+        public string iktato2ConnString {
+            get {
+                return ((string)(this["iktato2ConnString"]));
+            }
+        }
     }
 }

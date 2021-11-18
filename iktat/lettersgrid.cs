@@ -25,6 +25,16 @@ namespace iktat
 
         private void lettersgrid_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'iktato2LevelDS.letters' table. You can move, or remove it, as needed.
+            this.lettersTableAdapter.Fill(this.iktato2LevelDS.letters);
+
+        }
+
+        private void lettersBindingNavigatorSaveItem_Click_1(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.lettersBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.iktato2LevelDS);
 
         }
     }

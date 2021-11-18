@@ -13,5 +13,3 @@ C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.lettersgrid.resources
 C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.letterone.resources
 C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.iktatform.resources
 C:\Users\2020532\source\repos\Iskola\iktat\obj\Debug\iktat.usertetel.resources
-C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktato.mdf
-C:\Users\2020532\source\repos\Iskola\iktat\bin\Debug\iktato_log.ldf
