@@ -37,7 +37,7 @@ namespace iktat
             this.lettersTableAdapter.Fill(this.iktato2LevelekDS.letters);
             sqlConnect();
 
-            UserCbxFill(userstocbx, sqlConn);
+            UserCbxFill();
 
 
         }
@@ -94,30 +94,35 @@ Login failed for user 'BP\2020532'.
 
         //Kipróbálni: make sure that the .mdf file is not readonly; and try to run the VS in administrator.
         
-        private void UserCbxFill(string userstocbx, SqlConnection sqlConn)
+        private void UserCbxFill()
         {
-            try
+            using (SqlCommand sqlComm = new SqlCommand(userstocbx, sqlConn))
             {
-                //Datatable feltöltése az adatbázisból
-                SqlDataAdapter sqlDa = new SqlDataAdapter(sqlConn);
-                DataTable dtbl = new DataTable();
-                sqlDa.Fill(dtbl);
+                sqlComm.CommandType = CommandType.StoredProcedure;
+                try
+                {
+                    //Datatable feltöltése az adatbázisból
+                    SqlDataAdapter sqlDa = new SqlDataAdapter(sqlComm);
+                    DataTable dtbl = new DataTable();
+                    sqlDa.Fill(dtbl);
 
-                //Az első sor közvetlen bevitele
-                DataRow rowItem = dtbl.NewRow();
-                rowItem[0] = 0;
-                rowItem[1] = "- Válasszon -";
-                dtbl.Rows.InsertAt(rowItem, 0);
+                    //Az első sor közvetlen bevitele
+                    DataRow rowItem = dtbl.NewRow();
+                    rowItem[0] = 0;
+                    rowItem[1] = "- Válasszon -";
+                    dtbl.Rows.InsertAt(rowItem, 0);
 
-                // A combobox komponens bekötése a datatablehöz
-                id_userComboBox.ValueMember = "id_user";
-                id_userComboBox.DisplayMember = "nev";
-                id_userComboBox.DataSource = dtbl;
+                    // A combobox komponens bekötése a datatablehöz
+                    id_userComboBox.ValueMember = "id_user";
+                    id_userComboBox.DisplayMember = "nev";
+                    id_userComboBox.DataSource = dtbl;
+                }
+                catch (Exception err)
+                {
+                    MessageBox.Show(err.Message);
+                }
             }
-            catch (Exception err)
-            {
-                MessageBox.Show(err.Message);
-            }
+            
             
         }
 
